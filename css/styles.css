@@ -90,12 +90,12 @@ margin: 100px 0;
   height: 250px;
   border-radius: 50%;
   margin-right: 30px;
-  float: left;
+  float: right;
 }
 
 .teachskill{
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   margin-left: 30px;
   float: right;
